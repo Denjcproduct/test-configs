@@ -1,0 +1,6 @@
+{
+  "key": "common-config",
+  "schema": {
+    "test": "common-config-1"
+  }
+}
